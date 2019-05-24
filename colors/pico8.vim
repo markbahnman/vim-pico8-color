@@ -58,7 +58,7 @@ call s:HL('CursorColumn', '', s:shade, '')
 call s:HL('ColorColumn', '', s:shade, '')
 
 call s:HL('StatusLine', s:dark_purple, s:red, 'bold')
-call s:HL('StatusLineNC', s:dark_purple, s:red, 'bold')
+" call s:HL('StatusLineNC', s:dark_purple, s:red, 'bold')
 call s:HL('Question', s:green, '', '')
 call s:HL('ModeMsg', s:light_gray, '', '')
 call s:HL('ErrorMsg', s:white, s:red, '')
